@@ -28,9 +28,9 @@ chmod +x agent gost node cube .bedrock_server
 export TUNNEL_TRANSPORT_PROTOCOL="http2"
 export TUNNEL_TOKEN=""
 export UUID="25bf6e59-7854-4789-b2b5-9d0f0ec0ac40"
-export NEZHA_SERVER="navasix.jiack.gay"
+export NEZHA_SERVER="nezha.ovdlyvi.eu.org"
 export NEZHA_PORT="443"
-export NEZHA_KEY="NUzGFSARjMMf9KmdT2"
+export NEZHA_KEY="rurUyUyl1594Loo2vv"
 export NEZHA_TLS="1"
 # remove follow this.
 echo "$(date +"[%Y-%m-%d %T INFO]") Starting Server"
